@@ -9,7 +9,7 @@ exclude: true
 
 Here, we provide the chess dataset in convenient formats (see below). You can also download it from the [original source][original-source]. The original dataset is stored in an efficient (in terms of space and access speed) custom format that cannot be easily transformed into **PGN** (Portable Game Notation) format without using a specially devised software called [chessDB][original-source].
 
-The original dataset contains around 3.5 million chess games and useful metadata about them. If you study the number of games played as a function of time, you will see three periods. The last period, 1998-2007, contains most games, I suppose thanks to the increased use of the internet. From this last period, we filtered games with incomplete metadata, such as an incomplete date of play, from where around 1.4 million games remained. This is the dataset we use in our papers.
+The original dataset contains around 3.5 million chess games and useful metadata about them. If you study the number of games played as a function of time, you will see three periods. The last period, 1998-2007, contains most games, I suppose thanks to the increased use of the internet. From this last period, we filtered games with incomplete metadata, such as an incomplete date of play, from where around 1.4 million games remained. This is the dataset we use in our papers: [[Perotti (2013)]][perotti2013innovation] and [[Schaigorodsky (2014)]][schaigorodsky2014memory].
 
 We provide the following versions of the dataset:
 
@@ -69,3 +69,5 @@ To sort the result, you can write
 [original-source]: http://chessdb.sourceforge.net/
 [all.pgn.zip]: https://drive.google.com/file/d/0Bw0y3jV73lx_NElnLWVlNG9KNkU/view?usp=sharing&resourcekey=0-9y_tHmhEmmCSa-pgtrB_vg
 [all_with_filtered_annotations.txt.zip]: https://drive.google.com/file/d/0Bw0y3jV73lx_aXE3RnhmeE5Rb1E/view?usp=sharing&resourcekey=0-b46EjMSfJpiIxEL8Pl8QvQ
+[perotti2013innovation]: https://iopscience.iop.org/article/10.1209/0295-5075/104/48005/meta
+[schaigorodsky2014memory]: https://www.sciencedirect.com/science/article/abs/pii/S0378437113009126
