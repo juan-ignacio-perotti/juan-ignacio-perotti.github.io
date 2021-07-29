@@ -5,15 +5,17 @@
 layout: home
 ---
 
-I graduated as a **Licenciado en Física** (roughly a MS in Physics) and completed my [**Doctoral Thesis**][Thesis] (in Spanish) at [FaMAF][FaMAF]-[UNC][UNC] under the supervision of [Dr. Sergio A. Cannas][Cannas].
+I graduated as a **Licenciado en Física** (roughly a MS in Physics) and completed my [**Doctoral Thesis**][Thesis] (spanish) at [FaMAF][FaMAF]-[UNC][UNC] under the supervision of [Dr. Sergio A. Cannas][Cannas].
  
 I made a three postdocs: the first [FaMAF][FaMAF]-[UNC][UNC], the second at (former) BECS, [Aalto University][Aalto], Espoo, Finland and the third at [IMT][IMT], Lucca, Italy.
  
 Currently, I am an **Adjunct Researcher** (Investigador Adjunto) of [CONICET][CONICET], researching Complex Systems and Complex Networks at [IFEG-CONICET][IFEG-CONICET] as a member of the [GTMC][GTMC] and teaching as an **Assistant Profesor** at [FaMAF][FaMAF]-[UNC][UNC], [Córdoba, Argentina][Cordoba-Argentina].
  
-[Publications][Publications]
+[**Publications**][Publications]
 
-[CV][CV]
+[**CV** (spanish)][CV-spanish]
+
+[CV-english]: ...
 
 [old-site]: https://juanperotti.blogspot.com/
 [CONICET]: https://www.conicet.gov.ar/
@@ -28,4 +30,5 @@ Currently, I am an **Adjunct Researcher** (Investigador Adjunto) of [CONICET][CO
 [Aalto]: https://www.aalto.fi/en
 [IMT]: https://www.imtlucca.it/
 [Publications]: https://scholar.google.com/citations?user=ecf23cwAAAAJ&hl=en
-[CV]: https://drive.google.com/file/d/1m4qvpSYleXSRrcciNsMQgdU5koZ3yc5R/view?usp=sharing
+[CV-spanish]: https://drive.google.com/file/d/1m4qvpSYleXSRrcciNsMQgdU5koZ3yc5R/view?usp=sharing
+[CV-english]: ...
