@@ -5,11 +5,16 @@
 layout: home
 ---
 
+[comment]: {: style="text-align:right"}
+
+{: style="float: right"}
+![photo-myself](/assets/foto-playa.png#center){: width="250" }
+
 I graduated as a **Licenciado en Física** (roughly a MS in Physics) and completed my [**Doctoral Thesis**][Thesis] (spanish) at [FaMAF][FaMAF]-[UNC][UNC] under the supervision of [Dr. Sergio A. Cannas][Cannas].
  
 I made a three postdocs: the first [FaMAF][FaMAF]-[UNC][UNC], the second at (former) BECS, [Aalto University][Aalto], Espoo, Finland and the third at [IMT][IMT], Lucca, Italy.
  
-Currently, I am an **Adjunct Researcher** (Investigador Adjunto) of [CONICET][CONICET], researching Complex Systems and Complex Networks at [IFEG-CONICET][IFEG-CONICET] as a member of the [GTMC][GTMC] and teaching as an **Assistant Profesor** at [FaMAF][FaMAF]-[UNC][UNC], [Córdoba, Argentina][Cordoba-Argentina].
+Currently, I am an **Adjunct Researcher** (Investigador Adjunto) of [CONICET][CONICET], researching Complex Systems and Complex Networks at [IFEG-CONICET][IFEG-CONICET] as a member of the [GTMC][GTMC] and an **Assistant Profesor** teaching at [FaMAF][FaMAF]-[UNC][UNC], [Córdoba, Argentina][Cordoba-Argentina].
  
 [**Publications**][Publications]
 
