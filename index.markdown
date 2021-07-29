@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I graduated as a Licenciado en Física (roughly a MS in Physics) and completed my Doctoral [Thesis][] (in Spanish) at FaMAF under the supervision of [Dr. Sergio A. Cannas][Cannas].
+I graduated as a Licenciado en Física (roughly a MS in Physics) and completed my Doctoral [Thesis][] (in Spanish) at [FaMAF][FaMAF]-[UNC][UNC] under the supervision of [Dr. Sergio A. Cannas][Cannas].
  
 I made a three postdocs: the first [FaMAF][FaMAF]-[UNC][UNC], the second at (former) BECS, [Aalto University][Aalto], Espoo, Finland and the third at [IMT][IMT], Lucca, Italy.
  
