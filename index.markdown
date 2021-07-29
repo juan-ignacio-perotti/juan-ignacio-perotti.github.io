@@ -5,6 +5,8 @@
 layout: home
 ---
 
+SITE UNDER CONSTRUCTION. In the mean time, you can visit my [old site][old-site].
+
 I graduated as a Licenciado en Física (roughly a MS in Physics) and completed my Doctoral [Thesis][] (in Spanish) at [FaMAF][FaMAF]-[UNC][UNC] under the supervision of [Dr. Sergio A. Cannas][Cannas].
  
 I made a three postdocs: the first [FaMAF][FaMAF]-[UNC][UNC], the second at (former) BECS, [Aalto University][Aalto], Espoo, Finland and the third at [IMT][IMT], Lucca, Italy.
@@ -15,6 +17,7 @@ Currently, I am an adjunct researcher of [CONICET][CONICET], researching Complex
 
 [CV][CV]
 
+[old-site]: https://juanperotti.blogspot.com/
 [CONICET]: https://www.conicet.gov.ar/
 [GTMC]: http://gtmc.famaf.unc.edu.ar/
 [IFEG-CONICET]: https://www.famaf.unc.edu.ar/investigaci%C3%B3n/centros-de-investigaci%C3%B3n/instituto-de-fisica-enrique-gaviola/
