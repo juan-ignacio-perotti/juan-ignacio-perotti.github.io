@@ -10,7 +10,9 @@ layout: home
 {: style="float:right"}
 ![photo-myself](/assets/foto-playa.png){: width="250" }
 
-I graduated as a **Licenciado en Física** (roughly a MS in Physics) under the supervision of [Francisco A. Tamarit][Tamarit] and completed my [Doctoral Thesis][Thesis] (spanish) at [FaMAF][FaMAF]-[UNC][UNC] under the supervision of [Sergio A. Cannas][Cannas]. Later, I made a three postdocs: the first at [FaMAF][FaMAF]-[UNC][UNC] with [Orlando V. Billoni][Billoni], the second at (former) BECS, [Aalto University][Aalto], Espoo, Finland, with [Jari Saramaki][Saramki], and the third at [IMT][IMT], Lucca, Italy with [Guido Caldarelli][Caldarelli].
+I graduated as a **Licenciado en Física** (roughly a MS in Physics) under the supervision of [Francisco A. Tamarit][Tamarit] and completed my [Doctoral Thesis][Thesis] (spanish) at [FaMAF][FaMAF]-[UNC][UNC] under the supervision of [Sergio A. Cannas][Cannas]. 
+
+Later, I made a three postdocs: the first at [FaMAF][FaMAF]-[UNC][UNC] with [Orlando V. Billoni][Billoni], the second at (former) BECS, [Aalto University][Aalto], Espoo, Finland, with [Jari Saramaki][Saramki], and the third at [IMT][IMT], Lucca, Italy with [Guido Caldarelli][Caldarelli].
  
 Currently, I am **Adjunct Researcher** (Investigador Adjunto) of [CONICET][CONICET] studying **Complex Systems** and **Networks** at [IFEG-CONICET][IFEG-CONICET] as a member of the [GTMC][GTMC], and **Assistant Profesor** teaching at [FaMAF][FaMAF]-[UNC][UNC], [Córdoba, Argentina][Cordoba-Argentina].
  
