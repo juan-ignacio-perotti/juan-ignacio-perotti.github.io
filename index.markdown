@@ -29,7 +29,7 @@ Currently, I am **Adjunct Researcher** (Investigador Adjunto) of [CONICET][CONIC
 [FaMAF]: https://www.famaf.unc.edu.ar/
 [UNC]: https://www.unc.edu.ar/
 [Cordoba-Argentina]: https://en.wikipedia.org/wiki/C%C3%B3rdoba,_Argentina
-[Tamarit]: https://www.famaf.unc.edu.ar/~tamarit/
+[Tamarit]: https://www.famaf.unc.edu.ar/~ftamarit/
 [Cannas]: https://www.famaf.unc.edu.ar/~cannas/
 [Thesis]: https://drive.google.com/file/d/0BwUyGXqAAw2aNGQyOWIxYTYtNjk5Mi00MmYzLTk3YTUtNjJkYjM2NTc4ZmNm/view?usp=sharing&resourcekey=0-V7J9hi2AD9YVlk66Z05-TA
 [BECS]: http://www.becs.tkk.fi/
