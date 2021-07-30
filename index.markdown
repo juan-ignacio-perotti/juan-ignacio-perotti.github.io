@@ -7,7 +7,9 @@ layout: home
 
 [comment]: {: style="text-align:right"}
 
-{: style="float:right"}
+[comment]:{: style="float:right"}
+
+{: style="text-align:center"}
 ![photo-myself](/assets/foto-playa.png){: width="250" }
 
 I graduated as a **Licenciado en Física** (roughly a MS in Physics) under the supervision of [Francisco A. Tamarit][Tamarit] and completed my [Doctoral Thesis][Thesis] (spanish) at [FaMAF][FaMAF]-[UNC][UNC] under the supervision of [Sergio A. Cannas][Cannas]. 
