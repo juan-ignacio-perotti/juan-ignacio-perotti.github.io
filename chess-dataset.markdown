@@ -33,14 +33,14 @@ After the comments and description of the columns, each line corresponds to a gi
 4. **ELO** of **white** player (an integer number).
 5. **ELO** of **black** player (an integer number).
 6. **Number of moves** in the game (for some games it may be zero!)
-7. **date correupted?** : Flag indicating if the date (in `year.month.day`) is corrupted or missing. The label should be `date_true`, meaning the date is corrupted or missing, or `date_false` otherwise. Values `date_true` or `date_false`.
-8. **result correupted?**: Flag indicating if **result** is corrupted or missing. Values `result_true` or `result_false`.
+7. **date corrupted?** : Flag indicating if the date (in `year.month.day`) is corrupted or missing. The label should be `date_true`, meaning the date is corrupted or missing, or `date_false` otherwise. Values `date_true` or `date_false`.
+8. **result corrupted?**: Flag indicating if **result** is corrupted or missing. Values `result_true` or `result_false`.
 9. **white ELO corrupted?**: Flag indicating if white ELO is corrupted or missing. Values `welo_true` or `welo_false`.
 9. **black ELO corrupted?**: Flag indicating if white ELO is corrupted or missing. Values `belo_true` or `belo_false`.
-11. **event data is correupted?**: Flag indicating if the date of the event is corrupted or missing. Values `edate_true` or `edate_false`.
+11. **event data is corrupted?**: Flag indicating if the date of the event is corrupted or missing. Values `edate_true` or `edate_false`.
 12. **setup**: If it is true, then the game initial position is specified. This is used when playing Fischer Random Chess for example. Values `setup_true` or `setup_false`.
 13. **fen**: It is related to attribute 12. Values `fen_true` or `fen_false`. 
-14. **result 2° correupted**: In the original file the result is provided in two places. At the end of each sequence of moves and in the attributes part. This flag indicates if the result is (is not) properly provided after the sequence of moves (just for checking consistency in the **PGN** file). Values `result_true` or `result_false`.
+14. **result 2° corrupted**: In the original file the result is provided in two places. At the end of each sequence of moves and in the attributes part. This flag indicates if the result is (is not) properly provided after the sequence of moves (just for checking consistency in the **PGN** file). Values `result_true` or `result_false`.
 15. **year out of range?**: This flag is false only for games with dates in the range of years [1998 - 2007]. Values `oyrange_true` or `oyrange_false`.
 16. **bad length?**: when this flag is `blen_true` (`blen_false`), if the provided length of the game is (is not) good.
 17. Finally, the **sequence of moves**. Each move has a number and a letter `W` (white) or `B` (black) indicating the th-move of the white or black player, respectively.
@@ -54,7 +54,7 @@ Below, I give an example of how one line (and therefore one game) looks like in 
 # Bash magic
 
 You can use a simple linux(bash) command to quickly filter games with undesired properties from this file. 
-For instance, to filter games with missing or correupted **white ELO** you can write
+For instance, to filter games with missing or corrupted **white ELO** you can write
 
     $ cat all_with_filtered_annotations.txt | grep 'welo_false' > all_with_filtered_annotations_with_wELO.txt
 
