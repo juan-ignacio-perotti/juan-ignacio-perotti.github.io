@@ -14,7 +14,7 @@ The original dataset contains around 3.5 million chess games and useful metadata
 We provide the following versions of the dataset:
 
 -  Original data transformed to **PGN** format [all.pgn.zip][all.pgn.zip]  [831 MB]
--  **A simple txt format** (created by us) with labels for easy filtering of games according to their attributes [all_with_filtered_annotations.txt.zip][all_with_filtered_annotations.txt.zip]  [747 MB]
+-  **A simple txt format** (created by us) with labels for easy filtering of the games according to their attributes [all_with_filtered_annotations.txt.zip][all_with_filtered_annotations.txt.zip]  [747 MB]
 
 # Description of the txt format
 
