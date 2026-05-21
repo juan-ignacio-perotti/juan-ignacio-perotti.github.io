@@ -16,7 +16,7 @@ I graduated as a **Licenciado en Física** (roughly a MS in Physics) under the s
 
 Later, I made three postdocs: the first at [FaMAF][FaMAF]-[UNC][UNC] with [Orlando V. Billoni][Billoni], the second at (former) BECS, [Aalto University][Aalto], Espoo, Finland, with [Jari Saramaki][Saramki], and the third at [IMT][IMT], Lucca, Italy with [Guido Caldarelli][Caldarelli].
  
-Currently, I am **Adjunct Researcher** (Investigador Adjunto) of [CONICET][CONICET] studying **Complex Systems** and **Networks** at [IFEG-CONICET][IFEG-CONICET] as a member of the [GTMC][GTMC], and **Assistant Profesor** teaching at [FaMAF][FaMAF]-[UNC][UNC], [Córdoba, Argentina][Cordoba-Argentina].
+Currently, I am **Adjunct Researcher** (Investigador Adjunto) of [CONICET][CONICET] studying **Complex Systems** and **Networks** at [IFEG-CONICET][IFEG-CONICET] using methods from statistical physics, as a member of the [GTMC][GTMC]. I am also an **Adjunt Profesor** teaching at [FaMAF][FaMAF]-[UNC][UNC], [Córdoba, Argentina][Cordoba-Argentina].
  
 [**Publications**][Publications]
 
@@ -40,5 +40,5 @@ Currently, I am **Adjunct Researcher** (Investigador Adjunto) of [CONICET][CONIC
 [Aalto]: https://www.aalto.fi/en
 [IMT]: https://www.imtlucca.it/
 [Publications]: https://scholar.google.com/citations?user=ecf23cwAAAAJ&hl=en
-[CV-spanish]: https://drive.google.com/file/d/1m4qvpSYleXSRrcciNsMQgdU5koZ3yc5R/view?usp=sharing
+[CV-spanish]: https://drive.google.com/file/d/1nNFk8gI_7qmCQ63lMAV00GCI-5vB5rob/view?usp=sharing
 [CV-english]: ...
